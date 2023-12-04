@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-komodo",
-  "description": "A Komodo blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-candy",
+  "description": "A Candy blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git-ssh://git@github.com:supernetorg/insight-api-komodo.git",
+  "repository": "git-ssh://git@github.com/bitcandy/insight-api-candy.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -42,15 +42,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/supernetorg/insight-api-komodo/issues"
+    "url": "https://github.com/bitcandy/insight-api-candy/issues"
   },
-  "homepage": "https://github.com/supernetorg/insight-api-komodo",
+  "homepage": "https://github.com/bitcandy/insight-api-candy",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "komodo api",
+    "candy api",
     "blockchain api",
     "json",
     "bitcore"
@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "^2.6.2",
-    "bitcore-lib-komodo": "git+https://git@github.com/DeckerSU/bitcore-lib-komodo",
-    "bitcore-message-komodo": "git+https://git@github.com/DeckerSU/bitcore-message-komodo",
+    "bitcore-lib-candy": "git+https://git@github.com/bitcandy/bitcore-lib-candy",
+    "bitcore-message-candy": "git+https://git@github.com/bitcandy/bitcore-message-candy",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
