@@ -14,17 +14,17 @@
     ]
   },
   {
-    "poolName": "Stratum",
+    "poolName": "Old Main Pool 1",
     "url": "",
     "searchStrings": [
-      "/nodeStratum/"
+      "pool.awmlite.com"
     ]
   },
   {
-    "poolName": "CoinBlockers",
+    "poolName": "Old Backup Pool 2",
     "url": "https://kmd.coinblockers.com",
     "searchStrings": [
-      "coinblockers.com - https://coinblockers.com"
+      "pool2.awmlite.com"
     ]
   },
   {
