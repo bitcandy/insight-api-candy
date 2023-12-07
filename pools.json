@@ -1,9 +1,9 @@
 [
   {
-    "poolName": "Bitfly",
-    "url": "https://zcash.flypool.org/",
+    "poolName": "CDY Main pool 1",
+    "url": "https://candypool.bitcoinbookmarks.com/",
     "searchStrings": [
-      "/flypool/"
+      "mainbb"
     ]
   },
   {
